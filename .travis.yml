@@ -7,4 +7,4 @@ python:
   - "3.4"
   - "3.5"
 script:
-  -python unittest_calc.py
+  python unittest_calc.py
